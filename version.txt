@@ -1,5 +1,1 @@
-ROOTzmod 11
-gdks
-bsns
-vsjs
-hej
+V11.0 ZMODS
