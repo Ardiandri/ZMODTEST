@@ -1,4 +1,1 @@
-3.0 ZMODSR
-hsjs
-ndjd
-jdkd
+ZMODS 4.0
