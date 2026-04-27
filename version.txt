@@ -1,6 +1,1 @@
-ZMODS 9.0
--$+$
-hdhd
-hdjd
-dhjd
-jdjd
+9.0.0 ZMODS
