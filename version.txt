@@ -1,5 +1,1 @@
-1.1.0 ZMODS
-gshbsjs
-hdjd
-hdjs
-hdjs
+ZMODS 1.1.0
