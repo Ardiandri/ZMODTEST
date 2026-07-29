@@ -1,4 +1,1 @@
- ZMODS 2.3.2
-gsjs
-nsms
-ndns
+2.3.2 Z-MODS
