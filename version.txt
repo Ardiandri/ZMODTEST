@@ -1,4 +1,1 @@
- ZMODS 2.3.3
-bxbd
-kddm
-djd
+2.4.0 ZMODS
