@@ -1,5 +1,1 @@
-3.4.1 ZMODS
-bxndk
-bdnd
-ndnd
-bdd
+ZMODS 3.4.1
