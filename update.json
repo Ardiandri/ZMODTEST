@@ -1,0 +1,8 @@
+
+{
+  "latest_version": "2.1.0",
+  "minimum_version": "2.1.0",
+  "download_url": "https://example.com/gfx-tools.apk",
+  "force_update": true,
+  "release_notes": "Multi-language support and aim improvements"
+}
