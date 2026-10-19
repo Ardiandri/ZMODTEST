@@ -1,7 +1,7 @@
 
 {
   "latest_version": "5.0.0",
-  "minimum_version": "5.0.0",
+  "minimum_version": "5.1.0",
   "download_url": "https://t.me/zmod_adapter",
   "force_update": true,
   "release_notes": "update esp, ipad view, aimbot FOV,bypass"
