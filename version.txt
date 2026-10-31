@@ -1,4 +1,1 @@
-1.5.0 ZMODS
-dsfcsd
-fghdf
-gfhfdg
+ZMODS 1.5.0
